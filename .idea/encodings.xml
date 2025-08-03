@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/DesignPatterns/AbstarctFactorypattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DesignPatterns/AbstarctFactorypattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DesignPatterns/DecoratorPattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DesignPatterns/DecoratorPattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DesignPatterns/FactoryPattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DesignPatterns/FactoryPattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DesignPatterns/LoggerFormatter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DesignPatterns/LoggerFormatter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DesignPatterns/ObserverPattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DesignPatterns/ObserverPattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DesignPatterns/PatternsRunner/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DesignPatterns/PatternsRunner/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DesignPatterns/Singleton/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DesignPatterns/Singleton/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DesignPatterns/StrategyPattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DesignPatterns/StrategyPattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DesignPatterns/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DesignPatterns/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PatternsRunner/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PatternsRunner/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
