@@ -25,6 +25,8 @@ public class Main {
 
         AbstractFactoryPattern.run();
 
+        ProxyPattern.run();
+
         logger.log(Level.INFO,"All patterns executed successfully...");
 
     }

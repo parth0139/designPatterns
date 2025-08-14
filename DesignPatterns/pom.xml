@@ -24,6 +24,7 @@
         <module>DecoratorPattern</module>
         <module>FactoryPattern</module>
         <module>AbstarctFactorypattern</module>
+        <module>ProxyPattern</module>
     </modules>
 
     <build>
