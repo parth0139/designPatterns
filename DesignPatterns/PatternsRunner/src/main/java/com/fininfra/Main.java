@@ -29,6 +29,8 @@ public class Main {
 
         BuilderPattern.run();
 
+        PrototypePattern.run();
+
         logger.log(Level.INFO,"All patterns executed successfully...");
 
     }
