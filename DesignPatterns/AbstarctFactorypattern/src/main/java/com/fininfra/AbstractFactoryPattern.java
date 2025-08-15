@@ -15,6 +15,7 @@ import java.util.logging.Logger;
  */
 
 public class AbstractFactoryPattern {
+    private AbstractFactoryPattern(){}
     private static final Logger logger = Logger.getLogger(AbstractFactoryPattern.class.getName());
     private static final String WINDOWS = "windows";
     private static final String LINUX = "linux";

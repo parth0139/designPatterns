@@ -27,6 +27,8 @@ public class Main {
 
         ProxyPattern.run();
 
+        BuilderPattern.run();
+
         logger.log(Level.INFO,"All patterns executed successfully...");
 
     }

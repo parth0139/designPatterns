@@ -25,6 +25,7 @@
         <module>FactoryPattern</module>
         <module>AbstarctFactorypattern</module>
         <module>ProxyPattern</module>
+        <module>BuilderPattern</module>
     </modules>
 
     <build>

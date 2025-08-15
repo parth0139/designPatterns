@@ -6,6 +6,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 public class FactoryPattern {
+    private FactoryPattern(){}
     private static final Logger logger = Logger.getLogger(FactoryPattern.class.getName());
     public static void run() {
         logger.log(Level.INFO, "Running Factory Pattern...");

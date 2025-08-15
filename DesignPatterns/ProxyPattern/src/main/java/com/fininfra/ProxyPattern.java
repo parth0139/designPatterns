@@ -13,6 +13,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 public class ProxyPattern {
+    private ProxyPattern(){}
     private static final Logger logger = Logger.getLogger(ProxyPattern.class.getName());
 
     public static void run() {
@@ -36,7 +37,8 @@ public class ProxyPattern {
         proxyService.getVideo("2");
         proxyService.getVideo("3");
 
-        logger.log(Level.INFO, "Running Proxy Pattern...");
+        logger.log(Level.INFO, "Proxy Pattern demonstration completed");
+        logger.log(Level.INFO,"\n--------------------------------");
 
     }
 }

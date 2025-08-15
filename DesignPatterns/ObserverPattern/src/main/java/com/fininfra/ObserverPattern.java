@@ -14,6 +14,8 @@ public class ObserverPattern {
         * adds observers to specific stocks, and updates stock prices.
         * Observers will be notified of price changes.
      **/
+
+    private ObserverPattern(){}
     private static final Logger logger= Logger.getLogger(ObserverPattern.class.getName());
 
     public static void run(){

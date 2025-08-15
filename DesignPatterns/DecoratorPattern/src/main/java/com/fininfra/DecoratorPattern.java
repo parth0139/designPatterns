@@ -11,6 +11,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 public class DecoratorPattern {
+    private DecoratorPattern(){}
     private static final Logger logger = Logger.getLogger(DecoratorPattern.class.getName());
     public static void run() {
         logger.log(Level.INFO, "Running Decorator Pattern...");

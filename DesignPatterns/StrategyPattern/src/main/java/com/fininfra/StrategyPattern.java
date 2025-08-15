@@ -8,12 +8,14 @@ import com.fininfra.impl.PhonePeUPI;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-// Strategy pattern is used when there is multiple ways of doing same thing with different
-// functionality. And we want to decide at run time which one to use.
-// Like cost calculation method based on different modes selected.
-// Area calculation based on different shapes created.
-
+/**
+ Strategy pattern is used when there is multiple ways of doing same thing with different
+ functionality. And we want to decide at run time which one to use.
+ Like cost calculation method based on different modes selected.
+ Area calculation based on different shapes created.
+*/
 public class StrategyPattern {
+    private StrategyPattern(){}
     private static final Logger logger = Logger.getLogger(StrategyPattern.class.getName());
     
     public static void run(){
